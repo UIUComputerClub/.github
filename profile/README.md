@@ -1,5 +1,7 @@
 # United International University Computer Club (UIUCCL)
 
+![UIUCCL Logo](uiuCCL.jpg)
+
 Welcome to the official GitHub organization of the United International University Computer Club (UIUCCL)! This is the central hub for all our projects, collaborations, and code repositories.
 
 ## About Us
